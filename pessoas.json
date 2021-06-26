@@ -1,0 +1,14 @@
+{
+  "pessoas": [
+    {
+      "name": "Jose Roberto",
+      "turma": "2 ano",
+      "id": 1
+    },
+    {
+      "nome": "Alissa Mendes",
+      "tuma": "3 ano",
+      "id": 2
+    }
+  ]
+}
