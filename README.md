@@ -4,6 +4,6 @@
 Participantes:
 
 
-Lucas Abdalgne
-Marco Aurélio
-Bruno Teles Galvão
+ - Lucas Abdalgne
+ - Marco Aurélio
+ - Bruno Teles Galvão
