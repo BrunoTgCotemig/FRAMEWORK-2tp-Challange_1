@@ -1,7 +1,7 @@
 {
   "name": "framework-2tp-challange_1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Participantes:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

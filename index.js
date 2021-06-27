@@ -35,7 +35,7 @@ app.put('/valor/:index', function(req, res) {
 app.delete('/valor/:index', function(req, res) {
     const { index } = req.params
     valor.splice(index, 1)
-    return res.json({ message: "O valor foi deletado"})
+    return res.json({ message: "O valor " + index + " foi deletado"})
 })
 
 app.listen(3000)
